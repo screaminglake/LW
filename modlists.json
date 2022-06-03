@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/4NFn64R.png",
       "readme": "https://www.fallout4experiences.com/lost-world",
-      "download": "https://authored-files.wabbajack.org/A%20Tale%20of%20Two%20Commonwealths.wabbajack_b918a767-310d-4d6a-ad02-bbf1db61e90a",
+      "download": "https://authored-files.wabbajack.org/Lost%20World.wabbajack_e5f87c53-6b10-448d-a85d-b2c0a0d51ec3",
       "machineURL": "LW",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-        "$type": "DownloadMetadata, Wabbajack.Lib",
-        "Hash": "etvWtp+rV6U=",
-        "Size": 1549029,
-        "NumberOfArchives": 324,
-        "SizeOfArchives": 46501731814,
-        "NumberOfInstalledFiles": 11351,
-        "SizeOfInstalledFiles": 54515108735
+          "$type": "DownloadMetadata, Wabbajack.Lib",
+          "Hash": "afZEPl9WrfI=",
+          "Size": 2673344,
+          "NumberOfArchives": 213,
+          "SizeOfArchives": 17111033564,
+          "NumberOfInstalledFiles": 9486,
+          "SizeOfInstalledFiles": 22064311769
     },
     "version": "1.0",
     "RepositoryName": ""
