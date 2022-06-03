@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Lost World",
+    "description": "Lost World is an experience focused around bleak visuals and hardcore survival mechanics in a way that attempts to capture the look and feel of the S.T.A.L.K.E.R. series in Fallout 4.  Everything from the music and audio to your starting arsenal to the combat difficulty has been adjusted to more closely resemble a S.T.A.L.K.E.R. game.  This experience also comes with its own ENB preset custom-tailored to capture the grim, desolate visual style of the series.  So grab your backpack Stalker, and prepare to enter into a vision of the Commonwealth unlike anything you've ever experienced before.",
+    "author": "ScreamingLake",
+    "maintainers": [
+      "github/screaminglake"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "S.T.A.L.K.E.R.",
+      "Hardcore Survival",
+      "Unofficial"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/4NFn64R.png",
+      "readme": "https://www.fallout4experiences.com/lost-world",
+      "download": "https://authored-files.wabbajack.org/A%20Tale%20of%20Two%20Commonwealths.wabbajack_b918a767-310d-4d6a-ad02-bbf1db61e90a",
+      "machineURL": "LW",
+      "discordURL": "https://discord.gg/strraNQxEQ"
+    },
+    "download_metadata": {
+        "$type": "DownloadMetadata, Wabbajack.Lib",
+        "Hash": "etvWtp+rV6U=",
+        "Size": 1549029,
+        "NumberOfArchives": 324,
+        "SizeOfArchives": 46501731814,
+        "NumberOfInstalledFiles": 11351,
+        "SizeOfInstalledFiles": 54515108735
+    },
+    "version": "1.0",
+    "RepositoryName": ""
+  }
+]
