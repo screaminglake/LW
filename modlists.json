@@ -23,18 +23,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/4NFn64R.png",
       "readme": "https://www.fallout4experiences.com/lost-world",
-      "download": "https://authored-files.wabbajack.org/Lost%20World.wabbajack_e5f87c53-6b10-448d-a85d-b2c0a0d51ec3",
+      "download": "https://authored-files.wabbajack.org/Lost World.wabbajack_63626f37-61de-431e-a08e-9ffa96df0747",
       "machineURL": "LW",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-          "$type": "DownloadMetadata, Wabbajack.Lib",
-          "Hash": "afZEPl9WrfI=",
-          "Size": 2673344,
-          "NumberOfArchives": 213,
-          "SizeOfArchives": 17111033564,
-          "NumberOfInstalledFiles": 9486,
-          "SizeOfInstalledFiles": 22064311769
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "38+qDiSQpjI=",
+      "Size": 3424431,
+      "NumberOfArchives": 213,
+      "SizeOfArchives": 17111033564,
+      "NumberOfInstalledFiles": 9486,
+      "SizeOfInstalledFiles": 22065062299
     },
     "version": "1.0",
     "RepositoryName": ""
