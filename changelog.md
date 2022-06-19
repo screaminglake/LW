@@ -1,6 +1,6 @@
 # 1.1
 
-  -Added Wetness Shader Fix
+  -Added Wetness Shader Fix <br />
   -Added Mutant Menagerie - Hunter of the Commonwealth patch allowing for MM creatures to be butchered/harvested via HOTC mechanics
   -Added Subways of the Commonwealth intended for alternate fast travel system
   -Updated Equipment Crafting Overhaul, INNR Override and Universal Workbench patch
