@@ -13,12 +13,12 @@
       "S.T.A.L.K.E.R.",
       "Hardcore Survival",
       "Experience",
-      "Unofficial"
+      "Official"
     ],
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/2FTtMDZ.png",
