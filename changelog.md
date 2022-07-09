@@ -1,3 +1,30 @@
+# 1.2
+
+  -Added Game Configuration Menu <br />
+  -Added Silent Protagonist F4SE <br />
+  -Added FallSouls (this is optional and can be disabled without issue or configured to your liking via MCM) <br />
+  -Added Tarkov Style Ammo Check (immersive way to check ammo with HUD disabled) <br />
+  -Added FallUI Inventory <br />
+  -Added FallUI Workbenches <br />
+  -Added Zone Radio <br />
+  -Added PL-14 'Lebedev' <br />
+  -Added ZENIT - AK74 and PYA Grach <br />
+  -Updated Lost Audio Tweaks and patches <br />
+  -Updated Merc Pack Reinvention and patches <br />
+  -Updated Modern Weapons Replacer and reconfigured which weapons replace which weapons <br />
+  -High FPS Physics Fix (vsync enabled through this by default now) <br />
+  -Updated Equipment and Crafting Overhaul and the custom workbench patch for the universal workbench <br />
+  -Updated Ultimate Window Overhaul Redone <br />
+  -Updated Dark Sci-Fi Vault Retexture <br />
+  -Updated Russian Stimpak Replacer <br />
+  -Updated MCM settings preset to accommodate mod additions <br />
+  -Updated ENB preset with more appropriate early day/late evening/night settings <br />
+  -Added patch to remove godrays during nighttime <br />
+  -Lowered godray intensity in preloader file <br />
+  -Updated SKK custom actor replacement list to not replace vital NPC's (resolves boss spawn issue with CoUQ quest) <br />
+  -Removed Mutant Menagerie Hunter patch (MM creatures can no longer be butchered/harvested using Hunter of the Commonwealth) <br />
+  -Removed Silent Protagonist (old plugin-based version)
+
 # 1.1
 
   -Added Wetness Shader Fix <br />
