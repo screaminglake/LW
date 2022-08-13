@@ -1,3 +1,26 @@
+# 1.3 - The Zone Update!
+
+  -Added Resident Evil Safehouses (not exactly fitting in with STALKER but they're a nice place to hang out after a long, hard day of STALKing and they are just all around some of the nicest "player homes" ever made for Fallout 4 so I can't help but include them) <br />
+  -Added Sinister Ambient Sounds main file (night sounds for this mod should now trigger) <br />
+  -Added The Zone (explore the world of STALKER SOC in Fallout 4) <br />
+  -Added Mutant Menagerie Hunter Patch (allows for harvest/butcher capability on Mutant Menagerie creatures; previously removed after misconception as to whether it worked on recent updates to HOTC) <br />
+  -Added TALOS Exoskeleton and Footsteps Audio Replacer as an alternative to Power Armor <br />
+  -Added Creative Perks Plus <br />
+  -Added Looted World <br />
+  -Added 4estGimp AI Edits <br />
+  -Added ENB HQ Raindrops 2 (replacing ENB HQ Raindrops 1) <br />
+  -Added Oblivion Drone Robot Audio Sound Replacer <br />
+  -Added Pipboy 2000 <br />
+  -Updated Workshop Framework <br />
+  -Updated Boston FPS Fix - PRP Edition <br />
+  -Updated SKK Random Encounter Manager <br />
+  -Updated Equipment and Crafting Overhaul and Universal Workbench patch <br />
+  -Updated Mercenary Pack - Reinvention <br />
+  -Updated Unofficial Fallout 4 Patch <br />
+  -Updated Wetness Shader Fix <br />
+  -Added GMOW unofficial update for HUD elements and minimizing conflicts (thanks Ulfr) <br />
+  -Added Immersive Animation Framework patch for Mutant Menagerie and Nightstriker creatures (consuming items produced by these creatures will now trigger an IMMERSIVE animation from IAF)
+
 # 1.2
 
   -Added Game Configuration Menu <br />
