@@ -1,3 +1,27 @@
+# 1.4
+
+  -Added South of the Sea - Atom's Storm <br />
+  -Added The Fungal Forest <br />
+  -Added Forsythia Replacer - Fungal Commonwealth LITE <br />
+  -Added Military Grade Rounds - A Currency Mod (bottle caps are now bullets for currency) <br />
+  -Added STALKER UI Sounds Replacer <br />
+  -Added Zone Radio Redux <br />
+  -Added Added Starhamster's conflict resolution patch for additional consistency <br />
+  -Updated Terrain Undersides <br />
+  -Updated Creative Perks Plus <br />
+  -Updated Workshop Framework <br />
+  -Updated Equipment and Crafting Overhaul and its workbench patch <br />
+  -Updated Survival Configuration Menu (diseases can now be optionally disabled via its MCM entry) <br />
+  -Updated Immersive Candles <br />
+  -Updated Look at Me - Gunner's Edition (final version) <br />
+  -Updated Mercenary Pack - Reinvention <br />
+  -Updated Looted World <br />
+  -Updated Mutant Menagerie (many long-standing issues and bugs resolved; check its Nexus changelog for full details) <br />
+  -Removed Diamond City Ambience <br />
+  -Removed Zone Radio (original version) <br />
+  -Removed 4estGimp AI Edits
+  
+
 # 1.3 - The Zone Update!
 
   -Added Resident Evil Safehouses (not exactly fitting in with STALKER but they're a nice place to hang out after a long, hard day of STALKing and they are just all around some of the nicest "player homes" ever made for Fallout 4 so I can't help but include them) <br />
