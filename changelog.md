@@ -1,3 +1,26 @@
+# 1.4.5
+
+  -Reconfigured ENB preset to be slightly more vibrant and generally less dark and utilize recent advancements in ENBseries to fog, godrays, and lens flare <br />
+  -Resolved blocked entrance to Children of Ug Qualtoth Forgotten Mine <br />
+  -Added Tactical Weapon Foley - Weapon Pickup Sounds <br />
+  -Added Ammo Pickup SFX <br />
+  -Added The Wilderness <br />
+  -Added Levelled Item Framework <br />
+  -Added TEC-9 <br />
+  -Added H&K MP7 <br />
+  -Added H&K Mk23 SOCOM <br />
+  -Reworked Modern Weapons Replacer to offer more weapon diversity in replacers <br />
+  -Updated Creative Perks <br />
+  -Updated Creative Perks Plus <br />
+  -Updated Lost Audio Tweaks and LAT - Ambient Wasteland patch <br />
+  -Updated Workshop Framework <br />
+  -Updated Equipment and Crafting Overhaul and universal workbench patch <br />
+  -Updated Looted World <br />
+  -Updated Zone Radio Redux <br />
+  -Updated Radioactive Signs - Lighting AIO <br />
+  -Updated FallEvil Mega Zombie Pack <br />
+  -Updated Look at Me x ECO patch
+
 # 1.4
 
   -Added South of the Sea - Atom's Storm <br />
