@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Lost World",
-    "description": "Lost World is an experience focused around bleak visuals and hardcore survival mechanics in a way that attempts to capture the look and feel of the S.T.A.L.K.E.R. series in Fallout 4.  Everything from the music and audio to your starting arsenal to the combat difficulty has been adjusted to more closely resemble a S.T.A.L.K.E.R. game.  This experience also comes with its own ENB preset custom-tailored to capture the grim, desolate visual style of the series.  So grab your backpack Stalker, and prepare to enter into a vision of the Commonwealth unlike anything you've ever experienced before.",
+    "description": "Lost World is an experience focused around bleak visuals and hardcore survival mechanics in a way that attempts to capture the look and feel of the S.T.A.L.K.E.R. series in Fallout 4.  Everything from the music and audio to your starting arsenal to the combat difficulty has been adjusted to more closely resemble a S.T.A.L.K.E.R. game.  This experience also comes with its own ENB preset custom-tailored to capture the grim, desolate visual style of the series.  So grab your backpack Stalker, and prepare to enter into a vision of the Commonwealth unlike anything you\u0027ve ever experienced before.",
     "author": "ScreamingLake",
     "maintainers": [
       "github/screaminglake"
@@ -20,23 +19,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/2FTtMDZ.png",
       "readme": "https://www.fallout4experiences.com/lost-world",
-      "download": "https://authored-files.wabbajack.org/Lost World.wabbajack_67be7a84-cbf9-44e8-9190-82f03459e770",
+      "download": "https://authored-files.wabbajack.org/Lost World .wabbajack_57b0382e-a8ea-46e8-9c92-75b159ba3dd5",
       "machineURL": "LW",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "nsJV/FQQFeo=",
-      "Size": 3028189,
-      "NumberOfArchives": 238,
-      "SizeOfArchives": 22011616605,
-      "NumberOfInstalledFiles": 12429,
-      "SizeOfInstalledFiles": 27588254014
+      "Hash": "Np9J2jeO48k=",
+      "Size": 6184257,
+      "NumberOfArchives": 247,
+      "SizeOfArchives": 23906476048,
+      "NumberOfInstalledFiles": 12060,
+      "SizeOfInstalledFiles": 29851941023
     },
-    "version": "1.4",
-    "RepositoryName": ""
+    "version": "1.4.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-15T00:31:43.0527154Z",
+    "repositoryName": ""
   }
 ]
