@@ -1,3 +1,32 @@
+# 1.6 - Combat Overhaul!
+
+  -Total combat overhaul featuring SCOURGE and MAIM Lite replacing Wasteland Ballistics/Medic.  Time to kill both ways is roughly the same as before but with some added leniency toward the player that will have more to deal with in terms of injuries and penalties.  All combat encounters will be unique given the dynamic recalculation of stats on all NPC's and the best part is that all features of MAIM and SCOURGE (including headshot auto-kills and incoming/outgoing damages) can be adjusted to your liking in the MCM <br />
+  -Added Bullet in the Chamber (Z to check ammo, U to lower or holster weapon by default) <br />
+  -Added Exoskeletons Replace PA (majority of PA sets are now replaced with TALOS exoskeletons) <br />
+  -Added Fatigue - Enhanced Combat Realism (aiming down sights and shooting drains AP and the lower your AP the greater your aim wobble.  Good to invest in strenght and agility to help offset effects.  MCM-configurable) <br />
+  -Added Militarized Minutemen with Insignia Patches Addon <br />
+  -Added Operation Artichoke <br />
+  -Added Simple Bounties <br />
+  -Added comprehensive sound overhaul featuring Bullet Impact Overhaul, Physics Impact Overhaul and Bullet Casing Sounds, Melee Impact Sounds, and NPC Footstep Overhaul <br />
+  -Added MW Krueger Raiders Bandana Headwear Patch <br />
+  -Updated Inner City Ambience <br />
+  -Updated MW Krueger Raider Replacer (required adding My Little Armor) <br />
+  -Updated Equipment and Crafting Overhaul and its universal workbench patch <br />
+  -Updated Resident Evil Saferooms (5 new saferooms, RPD expansion and new global stash!) <br />
+  -Updated Wetness Shader Fix <br />
+  -Updated FallUI Workbench <br />
+  -Updated FallUI HUD <br />
+  -Updated FallUI Inventory (all menu's should be white now) <br />
+  -Updated Levelled Item Framework <br />
+  -Updated Workshop Framework <br />
+  -Updated Dark SciFi Vault Retexture (no more white square texture bug in certain vaults) <br />
+  -Updated The Wilderness <br />
+  -Removed Creative Perks/Creative Perks Plus (hard conflict with MAIM; couldn't resolve) <br />
+  -Removed Wasteland Ballistics and Medic <br />
+  -Removed Automatically Lowered Weapons (now hotkeyed with Bullet in the Chamber) <br />
+  -Removed Ethnet Melee Sounds and Material Impact Fix <br />
+  -Reworked all patches and MCM preset based on aforementioned changes (thanks to Yungbantz for some added patches against MAIM)
+
 # 1.4.5
 
   -Reconfigured ENB preset to be slightly more vibrant and generally less dark and utilize recent advancements in ENBseries to fog, godrays, and lens flare <br />
