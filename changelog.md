@@ -1,3 +1,38 @@
+# 1.6.5
+
+## Major Updates
+
+  -Corrections to combat overhaul introduced in 1.6.  Increased bullet speeds.  Uncovered a fatal flaw with Game Configuration Menu not saving its damage settings properly which may have led to some users not dealing as much damage as they should.  This is now corrected. <br />
+  
+  -Introduction of "Generic Whispers", a plugin created in-house by our very own Sweet6Shooter for Whispering Chills now adapted to rework core elements of Lost World. Major changes include the removal of stealth boys, syringers, combined meds, and bobbleheads both placed and in levelled lists; and renaming of some NPC's, armor, ingestibles, and other items to reflect the real world instead of being bound to the Fallout universe hopefully increasing the immersive realism of a STALKER experience.  Also includes overall loot reduction and crafting/workshop mode scrapping restrictions <br />
+  
+  -Raiders overhauled using Boston Bandits instead of MW Krueger.  More scruffy street raiders with less valuable equipment to prevent the player from becoming OP early on <br />
+  
+  -Full item sorting/tagging using FallUI Icon Library/Sorter plus Complex Sorter which now includes full ECO workbench integration <br />
+  
+  -Audio overhaul update with the addition of Ambient Tunnels of Boston and a major update to LOST Audio Tweaks and its patches to provide an overall more immersive and consistent soundscape both indoors and outdoors <br />
+  
+  -Reworked Modern Weapons Replacers for even more weapon diversity alongside the addition of the Mossberg 500 pump-action shotgun and AKM Complex.  Also added Bullet Counted Reload with appropriate patches <br />
+  
+  -Reduced amount of loot and items in starting chest behind player home <br />
+  
+  -Patched Polluted Climate weathers over to The Zone worldspace for a more consistent visual experience <br />
+
+## Other
+
+  -Added Looks Menu Customization Compendium Fix <br />
+  -Added Basement Living Immersion Adjustment <br />
+  -Added Intro Tweaks <br />
+  -Updated South of the Sea - Atom's Storm <br />
+  -Updated Levelled Item Framework <br />
+  -Updated Bullet in the Chamber <br />
+  -Updated Equipment and Crafting Overhaul <br />
+  -Updated Workshop Framework <br />
+  -Updated MCM Settings Manager <br />
+  -Updated Flicker Fixer <br />
+  -Updated Inner City Ambience <br />
+  -Removed SCOURGE
+
 # 1.6 - Combat Overhaul!
 
   -Total combat overhaul featuring SCOURGE and MAIM Lite replacing Wasteland Ballistics/Medic.  Time to kill both ways is roughly the same as before but with some added leniency toward the player that will have more to deal with in terms of injuries and penalties.  All combat encounters will be unique given the dynamic recalculation of stats on all NPC's and the best part is that all features of MAIM and SCOURGE (including headshot auto-kills and incoming/outgoing damages) can be adjusted to your liking in the MCM <br />
