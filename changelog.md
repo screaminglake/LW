@@ -1,3 +1,7 @@
+# 1.6.6
+
+  -Hotfix to undo levelled list edits affecting ammo that were causing enemies to spawn with no ammo and subsequently attack with their fists instead of guns
+
 # 1.6.5
 
 ## Major Updates
