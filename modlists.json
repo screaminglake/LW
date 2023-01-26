@@ -1,7 +1,7 @@
 [
   {
     "title": "Lost World",
-    "description": "Lost World is an experience focused around bleak visuals and hardcore survival mechanics in a way that attempts to capture the look and feel of the S.T.A.L.K.E.R. series in Fallout 4.  Everything from the music and audio to your starting arsenal to the combat difficulty has been adjusted to more closely resemble a S.T.A.L.K.E.R. game.  This experience also comes with its own ENB preset custom-tailored to capture the grim, desolate visual style of the series.  So grab your backpack Stalker, and prepare to enter into a vision of the Commonwealth unlike anything you\u0027ve ever experienced before.",
+    "description": "Lost World is an experience featuring TWO profiles:  one that offers a STALKER-inspired hardcore survival overhaul for Fallout 4 and another that offers a Metro-inspired hardcore survival overhaul for Fallout 4.  After installing, you will be able to switch between both as you please.  Both profiles feature unique visuals, gameplay systems, soundscapes, and a completely reworked foundation that will make it feel like you are basically playing an entirely new game set in the world of Fallout 4.  Vanilla quests are still playable, though they are not tested and are not the focus of Lost World.  In Lost World, you are alone and must live off the land to survive while taking in harsh, gritty, breathtaking visuals and facing unforgiving combat.",
     "author": "ScreamingLake",
     "maintainers": [
       "github/screaminglake"
@@ -17,7 +17,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://i.imgur.com/2FTtMDZ.png",
       "readme": "https://www.fallout4experiences.com/lost-world",
