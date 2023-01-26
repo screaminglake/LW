@@ -1,3 +1,59 @@
+# 2.0 - Massive Overhaul and New Metro Profile!
+
+## Major Updates
+
+Addition of an entirely new profile inspired by the Metro series.  The website documentation for Lost World has been significantly revamped to reflect this so read through carefully.  Since the Metro profile is brand new there are no changes to log, but here is a list of significant ways the Metro profile varies from the STALKER profile:
+
+-Metro profile is generally more FPS intensive than the STALKER profile due to NAC X
+
+-Greater focus on eurojank/makeshift weapons in the Metro profile
+
+-GMOW is using the survival preset by default instead of medium (precipitation weather only) after you apply the mcm settings preset so expect to have to put on a mask as soon as you apply the preset and always need to wear one.  Being outdoors is a luxury and NPC's should always be wearing masks
+
+-Combat is generally less harsh with slower time to kill and no player bleeding or lethal headshots on the Metro profile
+
+-Slightly less harsh survival/needs settings on the Metro profile
+
+-Generally more enemies and more lethal enemies in the Metro profile
+
+-More forgiving loot drop/chances in the Metro profile
+
+Below is a list of big changes to the existing STALKER profile for 2.0:
+
+-open city mods added (lexington, hagen, and concord generally should have more buildings open to explore)
+-opened subway tunnels previously blocked.  There should be no blocked station entrances
+-gunner armor expansion (new gunner faction overhaul) added
+-loot logic and reduction added (very harsh and unforgiving loot drop and chances now)
+-true perks (with yuba perk patch overhaul; no more VATS perks.  Perks custom-tailored to mods being used in LW).  Thanks YungBantz!
+-visual overhaul with ENB and weathers
+-removed some armor and weapon crafting recipes from universal workbench (also you can only craft weapons with the workshop version of the universal workbench now; not the mobile version)
+-can't scrap most things in workshop mode and limited item creation
+-clothing overhaul to most NPC's
+-completely remixed weapon replacements
+-removed PB 2000A (back to arm-mounted)
+
+## Other
+
+-mw krueger expansion reupload (updated current version)
+-mm watchtowers added as vantage points
+-the tunnels (zorkaz) added
+-knife mods added
+-misty pines fog (toxic patches) added
+-fixed load in delay so you shouldn't die before loading in
+-mercenary outfit pack added
+-military gorka suit added
+-mw bale added
+-remington model 700 (with replacer for hunting rifle) added
+-springfield armory m1a with replacer for combat rifle added
+-mts-255 revolver shotgun added
+-sturmgewehr 44 with replacer for assault rifle added
+-fixed biped setting for GMOW so hopefully no nude npc's when putting on masks
+-NPC Accuracy Revised added (enemies are less accurate)
+-a forest tree trim to prevent trees clipping through mod-added structures added
+-updated patching improving compatibility between mods
+-subway runner map added (can be added via MCM)
+-sotc precombine fix added
+
 # 1.6.6
 
   -Hotfix to undo levelled list edits affecting ammo that were causing enemies to spawn with no ammo and subsequently attack with their fists instead of guns
