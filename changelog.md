@@ -20,38 +20,48 @@ Addition of an entirely new profile inspired by the Metro series.  The website d
 
 Below is a list of big changes to the existing STALKER profile for 2.0:
 
--open city mods added (lexington, hagen, and concord generally should have more buildings open to explore)
--opened subway tunnels previously blocked.  There should be no blocked station entrances
--gunner armor expansion (new gunner faction overhaul) added
--loot logic and reduction added (very harsh and unforgiving loot drop and chances now)
--true perks (with yuba perk patch overhaul; no more VATS perks.  Perks custom-tailored to mods being used in LW).  Thanks YungBantz!
--visual overhaul with ENB and weathers
--removed some armor and weapon crafting recipes from universal workbench (also you can only craft weapons with the workshop version of the universal workbench now; not the mobile version)
--can't scrap most things in workshop mode and limited item creation
--clothing overhaul to most NPC's
--completely remixed weapon replacements
--removed PB 2000A (back to arm-mounted)
+-open city mods added (lexington, hagen, and concord generally should have more buildings open to explore) <br />
+
+-opened subway tunnels previously blocked.  There should be no blocked station entrances <br />
+
+-gunner armor expansion (new gunner faction overhaul) added <br />
+
+-loot logic and reduction added (very harsh and unforgiving loot drop and chances now) <br />
+
+-true perks (with yuba perk patch overhaul; no more VATS perks.  Perks custom-tailored to mods being used in LW).  Thanks YungBantz! <br />
+
+-visual overhaul with ENB and weathers <br />
+
+-removed some armor and weapon crafting recipes from universal workbench (also you can only craft weapons with the workshop version of the universal  workbench now; not the mobile version) <br />
+
+-can't scrap most things in workshop mode and limited item creation <br />
+
+-clothing overhaul to most NPC's <br />
+
+-completely remixed weapon replacements <br />
+
+-removed PB 2000A (back to arm-mounted) <br />
 
 ## Other
 
--mw krueger expansion reupload (updated current version)
--mm watchtowers added as vantage points
--the tunnels (zorkaz) added
--knife mods added
--misty pines fog (toxic patches) added
--fixed load in delay so you shouldn't die before loading in
--mercenary outfit pack added
--military gorka suit added
--mw bale added
--remington model 700 (with replacer for hunting rifle) added
--springfield armory m1a with replacer for combat rifle added
--mts-255 revolver shotgun added
--sturmgewehr 44 with replacer for assault rifle added
--fixed biped setting for GMOW so hopefully no nude npc's when putting on masks
--NPC Accuracy Revised added (enemies are less accurate)
--a forest tree trim to prevent trees clipping through mod-added structures added
--updated patching improving compatibility between mods
--subway runner map added (can be added via MCM)
+-mw krueger expansion reupload (updated current version) <br />
+-mm watchtowers added as vantage points <br />
+-the tunnels (zorkaz) added <br />
+-knife mods added <br />
+-misty pines fog (toxic patches) added <br />
+-fixed load in delay so you shouldn't die before loading in <br />
+-mercenary outfit pack added <br />
+-military gorka suit added <br />
+-mw bale added <br />
+-remington model 700 (with replacer for hunting rifle) added <br />
+-springfield armory m1a with replacer for combat rifle added <br />
+-mts-255 revolver shotgun added <br />
+-sturmgewehr 44 with replacer for assault rifle added <br />
+-fixed biped setting for GMOW so hopefully no nude npc's when putting on masks <br />
+-NPC Accuracy Revised added (enemies are less accurate) <br />
+-a forest tree trim to prevent trees clipping through mod-added structures added <br />
+-updated patching improving compatibility between mods <br />
+-subway runner map added (can be added via MCM) <br />
 -sotc precombine fix added
 
 # 1.6.6
