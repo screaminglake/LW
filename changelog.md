@@ -18,7 +18,7 @@ Addition of an entirely new profile inspired by the Metro series.  The website d
 
 -More forgiving loot drop/chances in the Metro profile
 
-Below is a list of big changes to the existing STALKER profile for 2.0:
+### Below is a list of big changes to the existing STALKER profile for 2.0:
 
 -open city mods added (lexington, hagen, and concord generally should have more buildings open to explore) <br />
 
