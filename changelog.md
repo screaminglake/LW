@@ -1,3 +1,16 @@
+# 2.0.1
+
+-Reworked clothing override to ensure no NPC's remove all their clothing when equipping a gas mask <br />
+-Removed Children of Ug-Qualtoth from Metro profile <br />
+-Made workshop override (disabling scrapping and most build options) an optional patch that can be disabled <br />
+-Removed nightstalkers from Metro profile and rebalanced health for STALKER profile <br />
+-Rebalanced health of centaurs for both profiles <br />
+-Reworked hotkeys to ensure no vanilla hotkey overlap for both profiles <br />
+-Updated documentation and setup walkthrough video to break down the setup process per profile.  Important to distinguish to select the MEDIUM preset for GMOW at vault exit on STALKER profile and to not equip a mask on the Metro profile until after loading back in from desktop after MCM settings preset has been applied <br />
+-Updated Lost World Perk Patch (yungbantz) to further revise perk effects not relevant to Lost World <br />
+-Included patch created by Creed to ensure minutemen are not carrying invisible or entirely broken weapons <br />
+-Revised and repackaged patches as necessary and updated CS patch
+
 # 2.0 - Massive Overhaul and New Metro Profile!
 
 ## Major Updates
