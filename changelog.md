@@ -1,6 +1,6 @@
 # 2.1
 
--Converted fusion cells to ballistic ammo and removed leftove PA pieces (Creed) <br />
+-Converted fusion cells to ballistic ammo and removed leftover PA pieces (Creed) <br />
 -Made player home markers visible on Pipboy map (Creed) <br />
 -Fixed Carry Weight issue from True Perks and made Nightstrikers less annoying (Odewise) <br />
 -Added several retextures from Zeninc (Mutant Menagerie creatures, church doors and windows, caves, trash piles) <br />
