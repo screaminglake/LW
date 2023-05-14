@@ -1,3 +1,34 @@
+# 2.1
+
+-Converted fusion cells to ballistic ammo and removed leftove PA pieces (Creed) <br />
+-Made player home markers visible on Pipboy map (Creed) <br />
+-Fixed Carry Weight issue from True Perks and made Nightstrikers less annoying (Odewise) <br />
+-Added several retextures from Zeninc (Mutant Menagerie creatures, church doors and windows, caves, trash piles) <br />
+-Added several retextures from Mikmet (crates, capsules, metal boxes, roads) <br />
+-Added instructions to Beginner's Guide on website for how to include PANPC and its custom patch for Lost World <br />
+-Added Fallout 4 Particle Patch and Gloomy Glass <br />
+-Added Hazmat Suit UHD (a bit flashy, but fixes the bug where wearing the hazmat suit would make the player's head invisible and have no visor) <br />
+-Fixed naked guard NPC's in Diamond City on Metro profile <br />
+-Made fire kits craftable again on STALKER profile <br />
+-Turned off NPC dodges, character levelling health bonuses, and lowered outgoing damage via GCM on STALKER profile (thanks Creed) <br />
+-Added Weapon Debri Crash Fix for parity with other lists (no more rendering crashes) <br />
+-Added Simple Attack Reactions and Speed Fix (enemies now more reactive to taking damage) <br />
+-Added Tactical Flashlight earpiece fix 1st person clipping (I Love Frozen) <br />
+-Updated Ultimate Window Overhaul <br />
+-Updated Levelled Item Framework <br />
+-Updated Survival Configuration Menu <br />
+-Updated Physics Impact Overhaul (not as loud bullet casings) <br />
+-Updated Bullet Impact Overhaul (not as loud bullet impacts) <br />
+-Updated Fungal Forest <br />
+-Updated South of the Sea - Atom's Storm <br />
+-Updated Unofficial Fallout 4 Patch <br />
+-Updated Workshop Framework <br />
+-Updated The Sewers <br />
+-Removed Lighting Series AIO, Radioactive Signs, and Immersive Windows (street lights will be only light sources at night now) <br />
+-Updated to latest ENB libraries <br />
+-Updated patches (including CS) as necessary <br />
+-Updated alternative Google Doc documentation to match website
+
 # 2.0.1
 
 -Reworked clothing override to ensure no NPC's remove all their clothing when equipping a gas mask <br />
