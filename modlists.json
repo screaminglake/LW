@@ -21,21 +21,21 @@
     "links": {
       "image": "https://i.imgur.com/2FTtMDZ.png",
       "readme": "https://www.fallout4experiences.com/lost-world",
-      "download": "https://authored-files.wabbajack.org/Lost World .wabbajack_4d9c6aa2-9858-42d4-9df9-384c875d8607",
+      "download": "https://authored-files.wabbajack.org/Lost World .wabbajack_5bacbe87-2bde-46bd-bb2f-c3b9e33542bf",
       "machineURL": "LW",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "Hash": "4hi3PbCtx2g=",
-      "Size": 12670800,
-      "NumberOfArchives": 377,
-      "SizeOfArchives": 51758291527,
-      "NumberOfInstalledFiles": 15870,
-      "SizeOfInstalledFiles": 48837268439
+      "Hash": "ddM3pcgnlCo=",
+      "Size": 13291139,
+      "NumberOfArchives": 389,
+      "SizeOfArchives": 54429553773,
+      "NumberOfInstalledFiles": 15794,
+      "SizeOfInstalledFiles": 51397882280
     },
-    "version": "2.0.1",
+    "version": "2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-03T23:48:46.671561Z",
+    "dateUpdated": "2023-05-14T18:36:51.7160453Z",
     "repositoryName": ""
   }
 ]
